@@ -58,8 +58,8 @@ The parser combinator library (mpc) used in this program is licensed from\n\
 Daniel Holden, Copyright (c) 2013, under the BSD3 license\n\
 (see https://github.com/orangeduck/mpc/).\n\
 \n\
-dbcc itself is licensed under the MIT license, Copyright (c) 2016, Richard\n\
-Howe. (see https://github.com/howerj/dbcc for the full program source).\n";
+dbcc itself is licensed under the MIT license, Copyright (c) 2021, dinglx\n\
+Howe. (see https://github.com/maimaixiong/dbcc for the full program source).\n";
 	fputs(msg, stderr);
 }
 
